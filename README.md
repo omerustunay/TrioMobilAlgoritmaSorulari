@@ -1,4 +1,4 @@
-## Trio Mobil Algoritma Sorular
+## Trio Mobil Algoritma Soruları
 
 Çözülmesi için 2 tane problemden bahsedilmişti.
 
