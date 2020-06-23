@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // dizi icerisindeki arkadas olmayan degerler ile dizinin alt kumesi olan degerler toplanir.
+        // dizi icerisindeki arkadas olmayan ve ayni dizinin alt kumesi olan degerler toplanir.
         // max degeri olan doner.
 
         int arr[] = new int[]{-5,2,-1,8,-2};
